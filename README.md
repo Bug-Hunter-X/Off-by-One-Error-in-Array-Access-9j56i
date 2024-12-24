@@ -1,0 +1,2 @@
+# Off-by-One Error in Java
+This repository demonstrates a common off-by-one error in Java when accessing array elements. The error occurs because the loop condition `i <= arr.length` is incorrect and attempts to access an element beyond the array's bounds.
